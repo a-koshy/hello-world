@@ -1,2 +1,2 @@
 # hello-world
-Certainly uncontaminated by cheese.
+Certainly uncontaminated by code!
