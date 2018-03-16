@@ -10,4 +10,8 @@ Here is a cute picture from [this source](https://pixabay.com/en/chicks-feather-
 
 ## A new section
 
-I just wrote *this* in RStudio!    
+I just wrote *this* in RStudio!
+
+## Another new section created on GitHub
+
+I will need to **pull** this!    
